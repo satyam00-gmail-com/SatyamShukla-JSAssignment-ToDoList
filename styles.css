@@ -1,0 +1,9 @@
+ *{box-sizing: content-box; margin: 3%;}       
+        h1 {color: blue;}
+        #main{width: 400px;;height: 250px;border-style:outset }
+        #listItem{border-color: grey;border-radius: 5%;border-style:inherit}
+        #btnAdd{background-color: blue; color: white;}
+        #btnEdit{background-color: rgb(64, 146, 99); color: white;}
+        #btnSave{background-color: purple; color: white;}
+        #btnDelete{background-color: red; color: white;}
+        button{width: 42px;height: 30px;border: none;}
